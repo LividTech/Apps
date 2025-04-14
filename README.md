@@ -19,3 +19,5 @@ TikTok: @lividtechnology
     * Initial Release
 * 0.2
     * README.md updated and DlliconFinder.exe uploaded
+* 0.3
+    * README.md updated and BSoD.exe uploaded
